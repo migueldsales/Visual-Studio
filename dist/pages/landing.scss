@@ -93,7 +93,7 @@
 
     .banner-img{
         img{
-            @include imgFit($width: 450px, $height: 400px)
+            @include imgFit($width: 650px, $height: 550px)
         }
         
     }

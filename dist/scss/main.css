@@ -110,8 +110,8 @@ body {
   color: #0072c6;
 }
 .banner .banner-img img {
-  width: 450px;
-  height: 400px;
+  width: 650px;
+  height: 550px;
   -o-object-fit: cover;
      object-fit: cover;
   -o-object-fit: center center;
@@ -160,7 +160,7 @@ body {
 }
 .header .branding a span {
   font-size: 1.1rem;
-  margin-left: 1rem;
+  margin-left: 0.5rem;
   font-weight: 500;
 }
 .header-mobile {
